@@ -3,7 +3,7 @@
 
 - 🔭 Estudante de Ciência da Computação.
 - 🌱 Estudando e aprimorando conhecimentos sobre o mundo da programação.
-- 💬 Adicionarei alguns trabalhos feitos em aulae estudos.
+- 💬 Adicionarei alguns trabalhos feitos em aula e estudos.
 - 📫 e-mail: richard.a.peghin@gmail.com
 
 
